@@ -40,7 +40,7 @@ pub(crate) fn parse_args() -> Result<Args, Error> {
 
 async fn run() -> Result<(), Error> {
     let args = parse_args()?;
-    tracing::info!("args {:?}", args);
+    tracing::debug!("args {:?}", args);
 
     let mut client = EthClient::new(args).await?;
     client.handshake().await
