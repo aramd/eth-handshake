@@ -54,7 +54,9 @@ RUST_LOG=DEBUG ./eth-handshake enode://98742cfaf2dc6f28214adc3da69c094ca76551ade
 
 ## Note
 
-This code tests only against `Nethermind`, `besu` and `reth` clients. 
+- This code tests only against `Nethermind`, `besu` and `reth` clients.
+- This implementation addresses the requirements outlined in this [task.](https://github.com/eqlabs/recruitment-exercises/blob/master/node-handshake.md)
+
 
 
 
