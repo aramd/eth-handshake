@@ -17,7 +17,7 @@ Arguments:
   <ENODE> Ethereum node in the Ethereum peer-to-peer network.
 ```
 
-Enode has enode://<node_id>@<ip>:<post> format and you can get from [ethernodes.org](https://ethernodes.org/node/c32e699c07bb16383dab918d7650a8644b334bbf2e900c99e2542c4b60e93f72087281eb06302f7142a274e769e86692bf82f48f9e3721f054549c69f9b51177) site.
+Enode has `enode://<node_id>@<ip>:<post>` format and you can get from [ethernodes.org](https://ethernodes.org/node/c32e699c07bb16383dab918d7650a8644b334bbf2e900c99e2542c4b60e93f72087281eb06302f7142a274e769e86692bf82f48f9e3721f054549c69f9b51177) site.
 
 ## Examples
 
